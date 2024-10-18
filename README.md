@@ -185,4 +185,3 @@ output "ec2_public_ip" {
 
 **Este projeto foi desenvolvido por Yure Farias, como parte do desafio DevOps para estágio na VExpenses.**
 =======
-# desafio-devops-vexpenses
